@@ -5,5 +5,6 @@
 + factory (最基础的简单工厂)
   + many （多方法简单工厂)
   + jingtai (静态多方法简单工厂)
+  + method (工厂方法模式)
 
 所有名字里有Factory都是工厂类
